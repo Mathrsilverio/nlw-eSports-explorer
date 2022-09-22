@@ -6,7 +6,7 @@
 
 Projeto construído no evento Next Level Week da Rocketseat
 
-[Clique aqui para acessar](https://matazzo.github.io/nlw-eSports-explorer)
+[Clique aqui para acessar](https://mathrsilverio.github.io/nlw-eSports-explorer)
 
 ## Tecnologias
 
